@@ -1,2 +1,4 @@
 fastai
 gradio
+ipykernel
+duckduckgo_search
